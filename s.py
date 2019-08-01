@@ -5,7 +5,7 @@ import requests
 from threading import Thread
 
 
-mid    = ""
+mid    = "ucd4fc1e49365063a0cbbd693f8b1972b"
 params = {"category": "square", "mid": mid)}
 
 c = 0
